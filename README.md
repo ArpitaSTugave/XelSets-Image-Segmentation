@@ -61,7 +61,7 @@ images by running weighted matrix all over the image and we get the following se
 <P class="p15 ft6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; From previous case the last two images of (for bifocals) the segmentation is not complete and hence we further try to segment these using snakes. The image shows that snakes don’t suit for our application as it has energy cost for bending and we are trying to make sudden bends.
 </P>
 </DIV>
-![image](https://cloud.githubusercontent.com/assets/11435669/21528770/ebd1fba2-cd02-11e6-97d3-1ca412ffd6e9.png)
+<p><a href="https://cloud.githubusercontent.com/assets/11435669/21528770/ebd1fba2-cd02-11e6-97d3-1ca412ffd6e9.png" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11435669/21528770/ebd1fba2-cd02-11e6-97d3-1ca412ffd6e9.png" alt="image" style="max-width:100%;"></a></p>
 
 <DIV id="id_2_3">
 <P class="p14 ft6"><H5>  Segmentation using XelSets: </H5></P>
