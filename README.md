@@ -68,8 +68,7 @@ images by running weighted matrix all over the image and we get the following se
 <P class="p15 ft6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Snakes have energy cost for bending, hence they perform great with smooth loops but they cannot make sudden bends like a square or edge surface. So, we alter this algorithm. Hence for our application and other medical application like segmenting veins and blood vessels we consider xelset to play upper hand in segmentation. Hexagons are drawn using opengl tool and the pitchx, pitchy, minor radius and major radius are as shown in the figure. Due to the obvious shape of hexagon there are more number of columns than rows and hence our image is stretched by this proportion. i.e. (2/(√ 3)).
 </P>
 </DIV>
-![image](https://cloud.githubusercontent.com/assets/11435669/21528849/5be8f530-cd03-11e6-9a23-8fac64b33bc4.png)
-
+<p><a href="https://cloud.githubusercontent.com/assets/11435669/21528849/5be8f530-cd03-11e6-9a23-8fac64b33bc4.png" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11435669/21528849/5be8f530-cd03-11e6-9a23-8fac64b33bc4.png" alt="image" style="max-width:100%;"></a></p>
 
 <DIV id="id_2_3">
 <P class="p15 ft6">The points are moved by two kinds of force: intrinsic to the xelset, and extrinsic
